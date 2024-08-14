@@ -1,6 +1,6 @@
 # Unity-Hierarchy-Icons
 
-Hierarchy icons for components.
+Simple Hierarchy icons for all components.
 
 ![18e15cb43bd3e3fa9212b850df8e126e](https://github.com/user-attachments/assets/49702275-a5a7-4e1e-9ba3-cb422f58f940)
 
